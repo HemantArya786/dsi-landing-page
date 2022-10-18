@@ -10,7 +10,7 @@ function Content() {
   return (
     <main>
       <section className="d-flex flex-sm-row flex-column gap-5 align-items-center p-5">
-        <div className="col-sm-6  order-1  order-sm-0">
+        <div className="col-sm-6 order-1 order-sm-0">
           <h1 className="fw-bold text-center text-sm-start">
             Making the most of the <br /> ever-growing
           </h1>
