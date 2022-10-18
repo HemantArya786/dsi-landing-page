@@ -24,11 +24,7 @@ function Footer() {
           </div>
         </div>
         <div className=" ">
-          <img
-            src={FooterImageIcon}
-            alt="image not found"
-            className="img-fluid"
-          />
+          <img src={FooterImageIcon} alt="not found" className="img-fluid" />
         </div>
       </section>
       <section className="bg-danger text-center py-3 ">
