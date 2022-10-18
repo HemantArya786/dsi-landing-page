@@ -11,7 +11,7 @@ function NavBar() {
     <main className="App">
       <nav className="d-flex justify-content-between  align-items-center container p-3 ">
         <div>
-          <img src={Logo} alt="image not found" />
+          <img src={Logo} alt="not found" />
         </div>
 
         <div className=" gap-5 hide-mobile ">

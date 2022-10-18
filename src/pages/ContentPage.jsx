@@ -28,12 +28,12 @@ function Content() {
           </div>
         </div>
         <div className="col-sm-6 order-0 order-sm-1 ">
-          <img src={HeroImage} alt="image not found" className="img-fluid" />
+          <img src={HeroImage} alt="not found" className="img-fluid" />
         </div>
       </section>
       <section className="d-flex flex-sm-row flex-column gap-5 align-items-center p-5 section-two">
         <div className="col-sm-6">
-          <img src={SectionImage} alt="image not found" className="img-fluid" />
+          <img src={SectionImage} alt="not found" className="img-fluid" />
         </div>
         <div className="col-sm-6 ">
           <h1 className="text-center text-sm-start">

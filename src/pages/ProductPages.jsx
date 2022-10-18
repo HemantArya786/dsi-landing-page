@@ -5,7 +5,7 @@ function Product(props) {
     <main>
       <section className="text-start">
         <div className="d-flex justify-content-center justify-content-sm-center">
-          <img src={props.image} alt="image not found" />
+          <img src={props.image} alt="not found" />
         </div>
         <div className="">
           <h1 className=" text-center text-sm-start">{props.title}</h1>

@@ -7,7 +7,7 @@ function Footer() {
     <main>
       <section className="d-flex flex-wrap gap-5  justify-content-between  p-5">
         <div className="">
-          <img src={Logo} alt="image not found" />
+          <img src={Logo} alt="not found" />
           <h4>PT Dwidasa Samsara Indonesia</h4>
           <h6 className="footer-address-text">
             Phone : +62.21.5314.1135 Fax : +62.21.5314.1135 Email :
