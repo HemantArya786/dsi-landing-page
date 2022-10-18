@@ -36,3 +36,48 @@
     transform: rotate(360deg);
   }
 }
+
+.footer-address-text {
+  max-width:400px;
+}
+
+.product-description-text{
+  max-width:90%;
+  line-height: 25px;
+}
+
+.text-theme{
+  color : rgba(238, 66, 72, 1)
+
+}
+.section-two{
+  background-color:rgba(246, 246, 246, 1);
+}
+.section-description-text {
+  line-height: 25px;
+
+}
+
+.hide-mobile {
+  display : flex
+}
+
+.width-90{
+  max-width: 90%;
+}
+
+@media (max-width: 700px) {
+  .hide-mobile {
+     display:none !important;
+    border: 1px solid red;
+  }
+  .width-90 {
+    max-width: 100%;
+  }
+}
+
+@media (min-width: 700px) {
+  .visible-mobile {
+    display:none;
+  }
+}
